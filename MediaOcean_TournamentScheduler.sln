@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaOcean_TournamentScheduler", "MediaOcean_TournamentScheduler\MediaOcean_TournamentScheduler.csproj", "{A34FF060-E9CA-4BE9-88C1-578E62C8579E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaOcean_TournamentSchedulerBL", "MediaOcean_TournamentSchedulerBL\MediaOcean_TournamentSchedulerBL.csproj", "{31311C29-6121-4E98-A5EF-FBF588A225BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34FF060-E9CA-4BE9-88C1-578E62C8579E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34FF060-E9CA-4BE9-88C1-578E62C8579E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34FF060-E9CA-4BE9-88C1-578E62C8579E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34FF060-E9CA-4BE9-88C1-578E62C8579E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31311C29-6121-4E98-A5EF-FBF588A225BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31311C29-6121-4E98-A5EF-FBF588A225BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31311C29-6121-4E98-A5EF-FBF588A225BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31311C29-6121-4E98-A5EF-FBF588A225BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
